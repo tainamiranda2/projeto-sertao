@@ -1,0 +1,81 @@
+    body {
+        background: black;
+    }
+    /*sobrescrever as cores*/
+    
+    .navbar-light .navbar-nav a.nav-link {
+        color: white;
+    }
+    
+    .navbar-light .navbar-nav .nav-link:hover {
+        color: #d4f0eb;
+    }
+    
+    .navbar-light .navbar-toggler {
+        color: white;
+        background-color: white;
+    }
+    
+    button {
+        background-color: white;
+    }
+    /*formatando os h1 ,h2,h3*/
+    
+    h1 {
+        font-weight: 900;
+        letter-spacing: -0.05em;
+        margin-bottom: 60px;
+        color: white;
+    }
+    
+    h2 {
+        font-size: 3em;
+        font-weight: 700;
+        letter-spacing: -0.04em;
+    }
+    
+    h3 {
+        font-size: 2em;
+        font-weight: 700;
+        letter-spacing: -0.04em;
+    }
+    /*formatar conteudo*/
+    
+    #curiosidades {
+        background: white;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    
+    .lugares {
+        padding: 10px 0;
+    }
+    /*formataçao do footer*/
+    
+    #branco {
+        color: blanchedalmond;
+    }
+    
+    footer p a {
+        margin: 5px 15px;
+    }
+    
+    footer a {
+        color: white;
+        font-size: 0.8em;
+        list-style: none;
+    }
+    
+    footer a:hover {
+        color: #9bf0e1;
+        text-decoration: none;
+    }
+    
+    .diretos {
+        color: #fff;
+        text-align: center;
+    }
+    
+    a.btn.btn-outline-dark {
+        color: #fff;
+    }
